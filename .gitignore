@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+logs/
+workspaces/
+nxc_rid_debug.log
+.env

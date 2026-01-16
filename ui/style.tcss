@@ -1,0 +1,30 @@
+Screen {
+    background: #05070a;
+}
+
+#targets {
+    width: 28;
+    border: heavy red;
+    padding: 1 2;
+    color: #ff4444;
+    background: #0e1218;
+}
+
+#output {
+    border: heavy #8b0000;
+    padding: 1;
+}
+
+Input {
+    border: heavy #444444;
+    background: #05070a;
+    color: #00ff9c;
+}
+
+Header {
+    background: #300000;
+}
+
+Footer {
+    background: #300000;
+}
