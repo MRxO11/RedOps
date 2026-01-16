@@ -44,6 +44,7 @@ Click the thumbnail to view the full demo on YouTube.
 ## Post-exploitation modules
 <img width="1899" height="938" alt="Screenshot 2026-01-16 161311" src="https://github.com/user-attachments/assets/cd0f1e2b-350f-4867-882b-d695a075880d" />
 
+---
 
 ## Installation
 
@@ -59,37 +60,10 @@ pip install -r requirements.txt
 
 ## Running RedOps
 ```
-python3 main.py 
+python3 main.py
 ```
 
-## Core Commands
-### Reconnaissance
-``` 
-nmap <target>
-recon help
-```
+---
 
-### Vulnerability Scanning
-```
-vuln scan <ip>
-vuln web <url>
-vuln quick <target>
-```
-
-### Exploitation
-```
-exploit search <keyword>
-exploit use <module>
-msf run
-exploit sessions
-```
-
-### Post‑Exploitation
-```
-exploit post help
-exploit post <id> sysinfo
-exploit post <id> creds
-exploit post <id> privesc
-```
 
 
