@@ -77,7 +77,7 @@ You are solely responsible for complying with all applicable local, state, and f
 
 ## Author
 
-**MRxO11** – Offensive Security Enthusiast / Red Team Framework Developer  
+**MRxO11** – Offensive Security / Red Team Enthusiast  
 
 Credit for **ADE (Active Directory Enumerator)** goes to **Blue Phoenix**. RedOps integrates ADE as a wrapper and automation layer only.
 
