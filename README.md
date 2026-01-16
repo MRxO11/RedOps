@@ -65,5 +65,24 @@ python3 main.py
 
 ---
 
+## Legal Disclaimer
+```
+This project is created for learning, research, and authorized penetration testing only.
 
+The author takes no responsibility for any misuse of this framework.
+You are solely responsible for complying with all applicable local, state, and federal laws.
+```
 
+---
+
+## Author
+
+**MRxO11** – Offensive Security Enthusiast / Red Team Framework Developer  
+
+Credit for **ADE (Active Directory Enumerator)** goes to **Blue Phoenix**. RedOps integrates ADE as a wrapper and automation layer only.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
