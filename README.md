@@ -50,7 +50,7 @@ Click the thumbnail to view the full demo on YouTube.
 Clone the repository and run the install script:
 
 ```
-git clone https://github.com/YOUR_USERNAME/RedOps.git
+git clone https://github.com/MRxO11/RedOps
 cd RedOps
 chmod +x install.sh
 ./install.sh
@@ -58,7 +58,9 @@ pip install -r requirements.txt
 ```
 
 ## Running RedOps
-``` python3 main.py ```
+```
+python3 main.py 
+```
 
 ## Core Commands
 ### Reconnaissance
