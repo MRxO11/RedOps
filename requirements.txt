@@ -1,0 +1,13 @@
+textual
+rich
+async-timeout
+requests
+aiohttp
+psutil
+colorama
+python-nmap
+tqdm
+pygments
+tabulate
+prompt-toolkit
+websockets
