@@ -86,4 +86,5 @@ Credit for **ADE (Active Directory Enumerator)** goes to **Blue Phoenix**. RedOp
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 ---
