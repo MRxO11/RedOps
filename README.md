@@ -24,9 +24,9 @@ Click the thumbnail to view the full demo on YouTube.
 - Metasploit exploitation control  
 - Vulnerability scanning pipelines  
 - Post-exploitation modules  
-- Custom Textual-based terminal UI  
+- Custom Textual based terminal UI  
 - Modular and extensible architecture  
-
+- Fun part is it consist of multiple themes use which one you like
 ---
 
 ## Main dashboard
@@ -86,3 +86,4 @@ Credit for **ADE (Active Directory Enumerator)** goes to **Blue Phoenix**. RedOp
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+---
