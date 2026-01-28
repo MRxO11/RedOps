@@ -54,7 +54,7 @@ Clone the repository and run the install script:
 git clone https://github.com/MRxO11/RedOps
 cd RedOps
 chmod +x install.sh
-./install.sh
+sudo ./install.sh
 pip install -r requirements.txt
 ```
 
